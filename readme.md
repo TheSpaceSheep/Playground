@@ -1,8 +1,8 @@
-#Playground
+# Playground
 
 Small Python projects just for fun
 
 Random walks :
 
-* random walkers that can collide
-* a random walker influenced by the position of your mouse cursor
+* Random walkers that can collide
+* A random walker influenced by the position of your mouse cursor
